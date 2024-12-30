@@ -1,6 +1,7 @@
 # 👋 Welcome to my GitHub Profile!
 ![ShrewdMoss85236's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShrewdMoss85236&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrewdMoss85236&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
 ## 🚀 Skills and Tools:
